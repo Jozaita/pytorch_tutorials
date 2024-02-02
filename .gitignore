@@ -1,0 +1,9 @@
+Other_files/*
+datasets/*
+dataset_MNIST/*
+model_checkpoints/*
+flickr_8k/*
+Data_augmentation/*
+*.DS_Store
+dataset_MNIST/*
+runs/*
